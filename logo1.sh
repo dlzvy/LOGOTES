@@ -17,5 +17,5 @@ echo -e "\e[1;33m
                \e[1;37m\e[1;5mJoin the scavenger airdrop Now!\e[0m\e[1;32m
         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
         ┃ Telegram Group: \e[1;4;33mhttps://t.me/scavengerairdrop\e[0m\e[1;32m ┃
-        ┃ GitHub: \e[1;4;36mhttps://github.com/scavenger\e[0m\e[1;32m       ┃
+        ┃ Follow Me On GitHub: \e[1;4;36mhttps://github.com/dlzvy\e[0m\e[1;32m       ┃
         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"
