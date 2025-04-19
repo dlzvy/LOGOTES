@@ -12,10 +12,10 @@ echo -e "\e[1;36m
 
                \e[1;37m\e[5mJoin the Scavenger Airdrop Now!\e[0m
 
-\e[1;36m╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   Telegram Group:   \e[4;36mhttps://t.me/scavengerairdrop\e[0m\e[1;36m         ║
-║                                                                    ║
-║   Follow on GitHub: \e[4;36mhttps://github.com/dlzvy\e[0m\e[1;36m             ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝\e[0m"
+\e[1;32m╔════════════════════════════════════════════════════════╗
+\e[1;32m║                                                        ║
+\e[1;32m║   Telegram Group:  \e[1;4;33mhttps://t.me/scavengerairdrop\e[0m\e[1;32m   ║
+\e[1;32m║                                                        ║
+\e[1;32m║   Follow Me On GitHub:  \e[1;4;36mhttps://github.com/dlzvy\e[0m\e[1;32m   ║
+\e[1;32m║                                                        ║
+\e[1;32m╚════════════════════════════════════════════════════════╝"
